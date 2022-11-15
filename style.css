@@ -1,0 +1,89 @@
+{margin:0;padding:0;}
+html,bidy{
+	font-family:'roboto',sans-serif;
+	font-size:20px
+
+}
+
+.wrapper{
+	width:960px;
+	margin:20px auto;
+    border:solid 2px;
+    background:#A9DeFS;
+    overflow:hidden;
+    height:1320px;
+}
+
+.box{
+	box-sizing:border-box;
+	padding:5px;
+	width:450px;
+	height:200px;
+	float:left;
+    border:solid 2px;
+    background:#F2F5A9;
+    margin:10px;
+    text-align: center;
+
+}
+
+.fotoUno{
+	box-sizing:border-box;
+	width:300px;
+	height:400px;
+	border:solid 2px;
+    background:#F2F5A9;
+    text-align: center;
+    position: relative;
+    top: 300px;
+    position: relative;
+    left: 70px;
+    
+    
+}
+
+
+
+.fotoDue{
+	box-sizing:border-box;
+	width:300px;
+	height:400px;
+	border:solid 2px;
+    background:#F2F5A9;
+    text-align: center;
+    position: relative;
+    top: 350px;
+    position: relative;
+    left: 70px;
+    
+    
+}
+
+
+.testo{
+	box-sizing:border-box;
+	width:500px;
+	height:900px;
+	border:solid 2px;
+    background:#F2F5A9;
+    text-align: center;
+    position: relative;
+    top: -500px;
+    position: relative;
+    left: 447px;
+}   
+
+
+img{
+		contain : content;
+
+}
+
+.foto{
+	
+	position: relative;
+	top : -220px;
+	width:300px;
+	height:400px;
+	
+}
